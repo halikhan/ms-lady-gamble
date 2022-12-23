@@ -1,0 +1,23 @@
+
+Nicholas-Casino
+admin@nicholas.com
+@Admin!23#
+
+
+LIMS
+admin@lims.com
+@Admin!23#
+
+
+Venue2Go
+georgereece@gmail.com	
+pass:123456
+type:vendor
+
+
+fredaston49@gmail.com
+123456
+
+
+php artisan make:controller Patient/patientcontroller --resource
+
